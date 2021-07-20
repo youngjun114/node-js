@@ -1,5 +1,6 @@
-// this is an old version of exporting and importing modules
-
+/**
+ * Using an old version of exporting and importing modules
+ */
 const counter = require('./counter.js');
 
 counter.increase();
